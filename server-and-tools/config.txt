@@ -1,5 +1,6 @@
 #configurations
-#Sat Oct 04 13:38:49 JST 2014
-groups=13,27
-speeds=19200,19200
-modules=/dev/tty.usbserial-AH01JAVS,/dev/tty.usbserial-AH01JAV3
+#Sat Jan 23 12:41:49 JST 2016
+groups=32
+speeds=19200
+modules=/dev/tty.usbserial-AH01JAVR
+fps=30
