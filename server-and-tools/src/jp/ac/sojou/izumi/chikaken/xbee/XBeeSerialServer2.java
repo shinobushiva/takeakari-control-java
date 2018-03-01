@@ -24,7 +24,7 @@ import javax.swing.WindowConstants;
 
 public class XBeeSerialServer2 extends JFrame {
 
-	private static final int SERVER_PORT = 33334;
+	private static final int SERVER_PORT = 11111;
 
 	private static final long serialVersionUID = 733399969781731274L;
 
@@ -233,7 +233,7 @@ public class XBeeSerialServer2 extends JFrame {
 								int l = bis.read(buf);
 								if (l <= 0)
 									continue;
-								 System.out.println(l);
+//								 System.out.println(l);
 								 
 								// StringBuilder sb = new StringBuilder();
 								// for (int i = 0; i < l; i++) {

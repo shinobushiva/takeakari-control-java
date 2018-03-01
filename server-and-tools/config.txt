@@ -1,5 +1,5 @@
 #configurations
-#Sat Jan 23 12:41:49 JST 2016
+#Fri Mar 02 07:09:16 JST 2018
 groups=32
 speeds=19200
 modules=/dev/tty.usbserial-AH01JAVR
